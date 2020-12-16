@@ -1,9 +1,9 @@
 {
-  "name": "chucknorrisapp",
-  "homepage": "https://dreamerTram.github.io/chucknorrisapp",
+  "name": "chucknorris",
+  "homepage": "https://github.com/chucknorris",
   "author": {
-    "name": "Mbarak Mbigo",
-    "email": "mbigombaraktram@gmail.com"
+    "name": "Diana",
+    "email": "dianahcaccue@gmail.com"
   },
   "version": "0.1.0",
   "private": true,
