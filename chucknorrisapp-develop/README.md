@@ -1,11 +1,9 @@
-[![Build Status](https://travis-ci.com/dreamerTram/chucknorrisapp.svg?branch=develop)](https://travis-ci.com/dreamerTram/chucknorrisapp)
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # Chuck Norris Jokes App
 
 A React Application that consumes the [Chuck Norris API](https://api.chucknorris.io/)
-View App => [https://dreamertram.github.io/chucknorrisapp/](https://dreamertram.github.io/chucknorrisapp/)
+View App => [https://DianahCaccue.github.com/chucknorris/](https://github.com/DianahCaccue/chucknorris/)
 
 ## Technologies Used
 
@@ -14,12 +12,7 @@ View App => [https://dreamertram.github.io/chucknorrisapp/](https://dreamertram.
 - [Redux Saga](https://redux-saga.js.org/)
 - [Styled Components](https://www.styled-components.com/)
 - [Material UI](https://material-ui.com/)
-- [React Router](https://reacttraining.com/react-router/web/guides/basic-components)
-
-## Running the Application Locally
-
-- Clone the app: `git clone git@github.com:dreamerTram/chucknorrisapp.git`
-- Install packages: `yarn install`
+- [React Router](https://reacttraining.com/react-router/web/guides/basic-components/)
 
 ## Scripts
 
